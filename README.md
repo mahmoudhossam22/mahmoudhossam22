@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Computer Science and Digital Marketing**
 
-- 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudhossam22&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudhossam22" /> </p>
 
 <h3 align="left">Connect with me:</h3>
